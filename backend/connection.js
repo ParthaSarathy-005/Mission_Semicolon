@@ -4,7 +4,7 @@ dotenv.config();
 
 const connectionStr = process.env.MONGO_CONNECTION;
 
-mongoose.connect(connectionStr, { useNewUrlParser: true })
+mongoose.connect(connectionStr, { useUnifiedTopology: true })
   .then(() => console.log('connected to mongodb'))
   .catch(err => console.log(err));
 

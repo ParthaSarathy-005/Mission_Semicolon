@@ -37,7 +37,7 @@ function App() {
                 dispatch(addNotification(msgObj));
             }
         });
-    }, []);
+    }, [user]);
     return (
         <div className="App">
             <BrowserRouter>

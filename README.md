@@ -11,7 +11,7 @@ This is a simple ecommerce project built using the MERN stack (MongoDB, Express.
 
 **Payment Gateway:** Stripe
 
-**DEMO:** [https://mernstack-blog-application.netlify.app/](https://mernstack-blog-application.netlify.app/)
+**DEMO:** [https://simple-ecommerce-application.netlify.app/](https://simple-ecommerce-application.netlify.app/)
 
 ---
 

@@ -19,7 +19,6 @@ import User from './models/User.js';
 import userRoutes from './routes/userRoutes.js';
 import productRoutes from './routes/productRoutes.js';
 import orderRoutes from './routes/orderRoutes.js';
-import imageRoutes from './routes/imageRoutes.js';
 
 app.use(cors());
 app.use(express.urlencoded({ extended: true }));
@@ -27,7 +26,6 @@ app.use(express.json());
 app.use('/users', userRoutes);
 app.use('/products', productRoutes);
 app.use('/orders', orderRoutes);
-app.use('/images', imageRoutes);
 
 const stripeInstance = stripe(process.env.STRIPE_SECRET);
 

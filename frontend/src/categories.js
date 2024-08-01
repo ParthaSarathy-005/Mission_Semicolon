@@ -1,7 +1,7 @@
 const categories = [
     {
-        name: "Technology",
-        img: "https://img.freepik.com/free-photo/cardano-blockchain-platform_23-2150411956.jpg",
+        name: "Pottery",
+        img: "https://img.freepik.com/premium-photo/pottery-decoration-craft-cultures-clay-pattern-vase-earthenware-single-object-ornate-generated-by-artificial-intelligence_188544-82666.jpg",
     },
     {
         name: "Phones",

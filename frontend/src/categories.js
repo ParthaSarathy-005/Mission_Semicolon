@@ -4,12 +4,12 @@ const categories = [
         img: "https://img.freepik.com/premium-photo/pottery-decoration-craft-cultures-clay-pattern-vase-earthenware-single-object-ornate-generated-by-artificial-intelligence_188544-82666.jpg",
     },
     {
-        name: "Phones",
-        img: "https://m-cdn.phonearena.com/images/article/64576-wide-two_1200/The-Best-Phones-to-buy-in-2024---our-top-10-list.jpg",
+        name: "Bakery",
+        img: "https://st.depositphotos.com/1000336/4315/i/450/depositphotos_43154097-stock-photo-chocolate-candies.jpg",
     },
     {
-        name: "Laptops",
-        img: "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg"
+        name: "Jewels",
+        img: "https://media.istockphoto.com/id/958552122/photo/handcrafts-and-goods-on-display-in-a-street-market-nairobi-kenya.jpg?s=612x612&w=0&k=20&c=-98VL29wOwxSALOZtDLYB4-UaOwMwl7hfhXKamPc_cg="
     },
 ];
 
